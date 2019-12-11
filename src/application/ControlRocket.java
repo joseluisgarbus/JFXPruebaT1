@@ -71,7 +71,7 @@ public class ControlRocket {
 		/**
 		 * nombro al archivo fxml de la nueva ventana para cargarlo 
 		 */
-		FXMLLoader loader = new FXMLLoader(getClass().getResource("mars.fxml"));
+		FXMLLoader loader = new FXMLLoader(getClass().getResource("uranooo.fxml"));
 		Stage segunda = new Stage();
 		
 		
