@@ -1,0 +1,9 @@
+.backgroundtop{
+	-fx-background-image: url("assets/sky.jpeg");
+	-fx-background-repeat: repeat ;   
+    -fx-background-position: center ;
+}
+.letra{
+	-fx-font-family: "Times New Roman";
+	-fx-font-size: 25;
+}
